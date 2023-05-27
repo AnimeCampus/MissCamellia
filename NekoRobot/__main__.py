@@ -111,6 +111,10 @@ def get_readable_time(seconds: int) -> str:
 HELP_MSG = "Click The Button Below To Get Help Menu In Your Dm."
 START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 
+NEKO_STICKERS = (
+    "CAACAgUAAx0CVp075gABQ_aMZFHof4uytabwx98iVYlQtS30SO8AAg0OAAIYKjBWX61FLMIfZTcvBA", 
+)
+
 PM_START_TEXT = """
 ────「 [{}](https://graph.org/file/9cebba927eef1c3a3e0ea.jpg) 」────
 *Hola! {},*
