@@ -16,7 +16,7 @@ class Config(object):
 
     API_ID = 16743442  # integer value, dont use ""
     API_HASH = "12bbd720f4097ba7713c5e40a11dfd2a"
-    TOKEN = "6286654828:AAEKAxfoaxSUfOizXuZ-nfjE2X16xKcMApg"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "5876546515:AAHNkpGI9NK82DogFn1VMCj1mIThVD0IBEw"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     STRING_SESSION = ""
     REDIS_URL = "redis://default:neko69@redis-18084.c289.us-west-1-2.ec2.cloud.redislabs.com:18084/Neko-Free-db"
     MONGO_DB = "NekoRobot"
@@ -37,7 +37,7 @@ class Config(object):
     SQLALCHEMY_DATABASE_URI = "postgresql://kunalgaikwad932244:tIQq5nmiW7KY@ep-little-wood-723080.ap-southeast-1.aws.neon.tech/neondb"  # needed for any database modules
     DB_URL = "postgresql://kunalgaikwad932244:tIQq5nmiW7KY@ep-little-wood-723080.ap-southeast-1.aws.neon.tech/neondb"
     LOAD = []
-    BOT_USERNAME = "Wolfwood_Bot"
+    BOT_USERNAME = "MissCamellia_Bot"
     ARQ_API_URL = "arq.hamker.dev"
     ARQ_API_KEY = "CPYPCC-ZGUYAQ-RUMHTL-KMEAYY-ARQ"
     ERROR_LOGS = -1001909608236
